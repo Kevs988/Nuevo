@@ -1,4 +1,4 @@
-function fecha(){
+ function fecha(){
     document.getElementById('info').innerHTML = "23-09-1988";
     
   }
